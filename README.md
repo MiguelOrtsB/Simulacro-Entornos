@@ -9,5 +9,5 @@
 *5. Pago - Tarjeta:* relación de agregación "1 a 1", ya que un pago puede ser con una tarjeta y viceversa.  
 
 ## Diagrama de Clases
-
+![Diagrama](diagrama-clases-simulacro.png)
 
